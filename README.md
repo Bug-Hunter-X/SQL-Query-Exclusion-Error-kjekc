@@ -1,0 +1,1 @@
+This repository contains a demonstration of a subtle error in SQL queries involving comparison operators. The `bug.sql` file showcases a query that unintentionally excludes records with values exactly matching the threshold. The `bugSolution.sql` file provides a corrected version of the query.
